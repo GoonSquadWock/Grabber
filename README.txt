@@ -11,3 +11,4 @@ Once somone opens it they might need to open it 2 times.
 Then the info will be sent to the webhook.
 
 Remember dont use this tool for anything bad this is all just for testing. (:
+https://cdn.discordapp.com/attachments/1152649539816276171/1153964685289332766/grabberrrr.PNG
